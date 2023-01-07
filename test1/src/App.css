@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.backCard {
+  margin: 60px;
+  border: 2px #4d4c4c solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  background-color: #4d4c4c;
+}
